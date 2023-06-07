@@ -1,6 +1,6 @@
 ## Welcome to SVT Labs! 👋
 
-We are developers at [Sveriges Television, The Swedish national public TV broadcaster](https://omoss.svt.se/about-svt.html). This organization holds projects that are experiments, results of innovation- or focus sprints such as our [https://medium.com/the-svt-tech-blog/svts-innovative-tech-sprints-4a449cbffb64](Tech sprint), or just things we wanted to toy around with and investigate. No code in any repo in this Github organization is to be considered production ready.
+We are developers at [Sveriges Television, The Swedish national public TV broadcaster](https://omoss.svt.se/about-svt.html). This organization holds projects that are experiments, results of innovation- or focus sprints such as our [Tech sprint](https://medium.com/the-svt-tech-blog/svts-innovative-tech-sprints-4a449cbffb64), or just things we wanted to toy around with and investigate. No code in any repo in this Github organization is to be considered production ready.
 
 If you are looking for more mature products and projects, they reside at [our main Github org](https://github.com/SVT).
 
